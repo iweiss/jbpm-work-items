@@ -6,8 +6,8 @@
   <parent>
     <groupId>org.jbpm.contrib</groupId>
     <artifactId>workitems</artifactId>
-    <version>7.21.0.Final</version>
-  </parent>
+    <version>7.21.5</version>
+</parent>
 
   <artifactId>parser-workitem</artifactId>
   <name>Parser</name>

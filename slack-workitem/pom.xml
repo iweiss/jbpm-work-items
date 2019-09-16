@@ -6,8 +6,8 @@
   <parent>
     <groupId>org.jbpm.contrib</groupId>
     <artifactId>workitems</artifactId>
-    <version>7.21.0.Final</version>
-  </parent>
+    <version>7.21.5</version>
+</parent>
 
   <artifactId>slack-workitem</artifactId>
   <name>Slack</name>
@@ -89,7 +89,7 @@
         <exclusion>
           <groupId>org.jboss.spec.javax.ws.rs</groupId>
           <artifactId>jboss-jaxrs-api_2.0_spec</artifactId>
-        </exclusion>  
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>

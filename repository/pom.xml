@@ -6,8 +6,8 @@
   <parent>
     <groupId>org.jbpm.contrib</groupId>
     <artifactId>workitems</artifactId>
-    <version>7.21.0.Final</version>
-  </parent>
+    <version>7.21.5</version>
+</parent>
 
   <artifactId>repository</artifactId>
   <name>Repository</name>
@@ -230,7 +230,7 @@
   </build>
 
   <dependencies>
-    
+
     <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>template-resources</artifactId>
@@ -327,7 +327,7 @@
     </dependency>
 
   </dependencies>
-  
+
     <profiles>
     <profile>
       <id>all</id>
@@ -665,7 +665,7 @@
           <scope>provided</scope>
         </dependency>
       </dependencies>
-    
+
       <build>
         <plugins>
           <plugin>
